@@ -1,3 +1,3 @@
-# realtime_object_detection
+kode telah disesuaikan untuk kebutuhan real time detection untuk multiple human detection dan tracking
+sumber: https://github.com/Pawandeep-prog/realtime_object_detection
 
-in refrence to tutorial: https://youtu.be/zs43IrWTzB0
